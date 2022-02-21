@@ -1,0 +1,30 @@
+body {
+    background-color: brown;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h1 {
+    color: white;
+    border: 2px solid peachpuff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+
+}
+
+h2 {
+    color: beige;
+    border: 2px solid peachpuff;
+    display: block;
+    width: 90%;
+}
+
+h3 {
+    color: bisque;
+    border: 2px solid peachpuff;
+    display: block;
+    width: 80%;
+}
